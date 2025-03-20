@@ -1,0 +1,12 @@
+
+= Contributor license agreement - flipkart20
+
+== Purpose
+
+Contributors and users need confidence that flipkart20 is consistently licensed under the terms of the ${license} license. So, contributors must affirm that they release their contributions under those same terms.
+
+== Agreement
+
+I, xxxxx, using the username yyyy or any other, affirm that I release all of my contributions to the software project called flipkart20 under the terms of the ${license} v___ or any later version, as accessible in this project in docs/licenses or at http___.
+
+-- yyyy-mm-dd

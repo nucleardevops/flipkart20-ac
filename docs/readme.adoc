@@ -1,0 +1,18 @@
+
+= flipkart20 Documentation
+
+////
+The authors of 3 release this file under ${license} license terms.
+////
+
+== licenses
+
+Files with the text of the licenses that the dependencies used.
+
+== issues
+
+Files tracking progress of particular efforts.
+
+== contributors
+
+Contributor license agreements.

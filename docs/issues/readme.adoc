@@ -1,0 +1,26 @@
+
+= flipkart20 issues folder readme
+
+This folder exists to track issues and comments related to 3.
+This is recorded internal to the repository, rather than through a particular issue host.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
